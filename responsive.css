@@ -35,6 +35,7 @@
     .project-item img{
         float: none;
         padding-bottom: 20px;
+        width: 80%;
     }
     .project-wrapper{
         padding-bottom: 80px;
